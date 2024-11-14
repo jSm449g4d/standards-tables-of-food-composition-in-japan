@@ -1,0 +1,58 @@
+分類番号,Food Group,,,groupId
+食品番号,ItemNo,,,foodId
+索引番号,IndexNo,,,indexId
+食品名,Food and Description,unit,tagnames,tagnames
+廃棄率,Refuse,%,REFUSE,refuse
+エネルギー,Energy (kJ),kJ,ENERC,enerc
+エネルギー,Energy (kcal),kcal,ENERC_KCAL,enercKcal
+水分,Water,g,WATER,water
+アミノ酸組成によるたんぱく質,"Protein, calculated as  the sum of amino acid residues",g,PROTCAA,protcaa
+たんぱく質,"Protein, calculated from  reference nitrogen",g,PROT-,prot
+脂肪酸のトリアシルグリセロール当量,"Fatty acid, Triglyceride equivalents",g,FATNLEA,fatnlea
+コレステロール,Cholesterol,mg,CHOLE,chole
+脂質,Lipid,g,FAT-,fat
+利用可能炭水化物(単糖当量),"Carbohydrate, available; expressed in mono-saccharide equivalents",g,CHOAVLM,choavlm
+利用可能炭水化物質(質量系),"Carbohydrate, available; expressed",g,CHOAVL,choavl
+差引き法による利用可能炭水化物,"Carbohydrate, available; calculated by difference",g,CHOAVLDF-,choavldf
+食物繊維総量,"Dietary fiber, total",g,FIB-,fib
+糖アルコール,polyhydric alcohol,g,POLYL,polyl
+炭水化物,"Carbohydrate, total, calculated by difference",g,CHOCDF-,chocdf
+有機酸,"Organic acids, total",g,OA,oa
+灰分,Ash,g,ASH,ash
+ナトリウム,Sodium,mg,NA,na
+カリウム,Potassium,mg,K,k
+カルシウム,Calcium,mg,CA,ca
+マグネシウム,Magnesium,mg,MG,mg
+リン,Phosphorus,mg,P,p
+鉄,Iron,mg,FE,fe
+亜鉛,Zinc,mg,ZN,zn
+銅,Copper,mg,CU,cu
+マンガン,Manganese,μg,MN,mn
+ヨウ素,Iodine,μg,ID,id
+セレン,Selenium,μg,SE,se
+クロム,Chromium,μg,CR,cr
+モリブデン,Molybdenum,μg,MO,mo
+レチノール,Retinol,μg,RETOL,retol
+αカロテン,alpha-Carotene,μg,CARTA,carta
+βカロテン,beta-Carotene,μg,CARTB,cartb
+βクリプトキサンチン,beta-Cryptoxanthin,μg,CRYPXB,crypxb
+βカロテン当量,beta-Carotene e,μg,CARTBEQ,cartbeq
+レチノール活性当量,,μg,VITA_RAE,vitaRae
+ビタミンD,,μg,VITD,vitD
+αトコフェロール,,mg,TOCPHA,tocphA
+βトコフェロール,,mg,TOCPHB,tocphB
+γトコフェロール,,mg,TOCPHG,tocphG
+δトコフェロール,,mg,TOCPHD,tocphD
+ビタミンK,,μg,VITK,vitK
+ビタミンB1,,mg,THIA,thia
+ビタミンB2,,mg,RIBF,ribf
+ナイアシン,,mg,NIA,nia
+ナイアシン当量,,mg,NE,ne
+ビタミンB6,,mg,VITB6A,vitB6A
+ビタミンB12,,μg,VITB12,vitB12
+葉酸,,μg,FOL,fol
+パントテン酸,,mg,PANTAC,pantac
+ビオチン,,μg,BIOT,biot
+ビタミンC,,mg,VITC,vitC
+アルコール,,g,ALC,alc
+食塩相当量,,g,NACL_EQ,naclEq
