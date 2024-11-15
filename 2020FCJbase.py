@@ -2,7 +2,7 @@ import csv
 import json
 import html
 filename = './csv/body.csv'
-outputname = './output/2020FCJbase.json'
+outputname = './output/FCJ2020base.json'
 
 
 def isfloat(_s):
@@ -62,7 +62,7 @@ with open(filename, encoding='utf8', newline='') as f:
                 "name": row[3],
                 "tag": _tag,
                 "description": "日本食品標準成分表2020年版(八訂)" +
-                "_FCJ="+row[1]+"_",
+                " _FCJ="+row[1]+"_ ",
                 "unit": 100,
                 "carbo": isfloat(row[18]),
                 "fiber": isfloat(row[16]),
